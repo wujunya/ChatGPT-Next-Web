@@ -8,7 +8,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized: isApp ?
-      "请移步👉[API付费网站](https://wbchat.top/)","请移步👉[API付费网站](https://wbchat.top/)"
+      "请移步👉[API付费网站](https://wbchat.top/)":"请移步👉[API付费网站](https://wbchat.top/)"
   },
   Auth: {
     Return: "返回",
